@@ -100,7 +100,7 @@ function education(edu){
 
   tabledata = "";
   for(i=0;i<edu.length;i++){
-    tabledata += "<tr><td>"+edu[i].info+"</td><td>"+edu[i].institute+"</td><td>"+edu[i].degree+"</td><td>"+edu[i].passoutyear+"</td><td>"+edu[i].percentage+"</td></tr>";
+    tabledata += "<tr><td>"+edu[i].institute+"</td><td>"+edu[i].degree+"</td><td>"+edu[i].passoutyear+"</td><td>"+edu[i].percentage+"</td></tr>";
   }
   table1.innerHTML = tabledata;
 }
