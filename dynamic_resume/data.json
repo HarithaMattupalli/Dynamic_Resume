@@ -1,0 +1,46 @@
+{
+  "details":{
+    "name":"Haritha",
+    "image":"first1.jpg",
+    "email":"haritha@gmail.com",
+    "number":"+91-9999999999",
+    "address":"Guntur"
+  },
+  "careerobjective":{
+    "info":"To become a software developer"
+  },
+  "educationalqualification":[
+    {
+      "institute":"Vasireddy Venkatadri Institute Of Technology",
+      "degree":"B.tech",
+      "passoutyear":"2021",
+      "percentage":"88%"
+    },
+    {
+      "institute":"BIIT Junior College",
+      "degree":"Intermediate",
+      "passoutyear":"2017",
+      "percentage":"98%"
+    },
+    {
+      "institute":"Bhashyam High School",
+      "degree":"SSC",
+      "passoutyear":"2015",
+      "percentage":"98%"
+    }
+  ],
+  "technicalskills":[
+    {
+      "title":"programming languages",
+      "info":["c,c++,java,python"]
+    },
+    {
+      "title":"Databases",
+      "info":["oracle,sql,mysql"]
+    },
+    {
+      "title":"Operating system",
+      "info":["Windows,Linux,Ubuntu"]
+    }
+  ]
+}
